@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @thiago-carneiro
-- 👀 I’m interested in machine learning.
-- 🌱 I’m currently focusing on my master's.
+- 👀 I’m interested in hpc and machine learning
 <!---
+- 🌱 I’m currently 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
